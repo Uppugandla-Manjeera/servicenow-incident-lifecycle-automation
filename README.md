@@ -155,7 +155,7 @@ The project successfully demonstrates:
 
 Detailed implementation steps, screenshots, validation evidence, and results are available in:
 
-**`ServiceNow_Incident_Lifecycle_Automation_Documentation.docx`**
+**`ServiceNow_Incident_Lifecycle_Automation_Documentation.pdf`**
 
 ---
 
